@@ -10,7 +10,7 @@ A basic spam bot written in python also includes a GUI version
 ```
 git clone https://github.com/Assassinumz/spambot.git
 cd spambot
-pip install requirements.txt
+pip install -r requirements.txt
 python spambot.py
 ```
 ## GUI Version
